@@ -9,8 +9,9 @@ export default function App() {
     <div>
       <ul>
         <li><Link to="/">Home</Link></li>
-        <li><Link to="/">Products</Link></li>
-        <li><Link to="/">Details</Link></li>
+        <li><Link to="/contact">contact</Link></li>
+        <li><Link to="/chat">chat</Link></li>
+        <li><Link to="/about">about</Link></li>
       </ul>
       <Switch>
         
